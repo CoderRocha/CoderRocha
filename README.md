@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello and welcome to my GitHub profile!
+Here you can check on some projects that i've been working on. There's many more yet to come!
 
 <!--
 **CoderRocha/CoderRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
