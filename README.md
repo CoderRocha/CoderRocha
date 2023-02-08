@@ -1,17 +1,28 @@
-### Hello and welcome to my GitHub profile!
-Here you can check on some projects that i've been working on. There's many more yet to come!
+### 👋🏻 Hello, my name is <strong>Guilherme Rocha</strong>, and welcome to my GitHub Profile!
 
-<!--
-**CoderRocha/CoderRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 I'm a <strong>Front-End Developer</strong> who's still learning <strong>a lot.</strong>
 
-Here are some ideas to get you started:
+💼 Currently, i'm primally focused on <strong>HTML, CSS, Javascript and Angular.</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 But i also want to learn more about <strong>Typescript</strong> and <strong>React.</strong>
+
+📝 You can see some of my <strong>projects</strong> on this page. Stay around, there's more <strong>yet</strong> to come! :)
+
+----
+
+## ⚡ Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+
+---
+
+## ⭐ Information about my GitHub Account
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderrocha&show_icons=true&theme=synthwave)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=coderrocha&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
