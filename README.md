@@ -24,6 +24,6 @@
 ---
 
 ## ⭐ Information about my GitHub Account
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderrocha&show_icons=true&theme=synthwave)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=coderrocha&show_icons=true&theme=synthwave)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=coderrocha&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coderrocha&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
