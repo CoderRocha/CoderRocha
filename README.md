@@ -1,6 +1,6 @@
 ### 👋🏻 Hello, my name is <strong>Guilherme Rocha</strong>, and welcome to my GitHub Profile!
 
-💬 I'm a <strong>Front-End Developer</strong> who's still learning <strong>a lot.</strong>
+💬 I'm a <strong>Front-End Developer</strong>.
 
 💼 Currently, i'm primally focused on <strong>HTML, CSS, Javascript and Angular.</strong>
 
