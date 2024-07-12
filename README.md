@@ -2,9 +2,9 @@
 
 💬 I'm a <strong>Front-End Developer</strong>.
 
-💼 Currently, i'm primally focused on <strong>HTML, CSS, Javascript and Angular.</strong>
+💼 Currently, i'm primally focused on <strong>HTML, CSS, Javascript, Angular and React.</strong>
 
-📚 But i also want to learn more about <strong>Typescript</strong> and <strong>React</strong>.
+📚 But i also want to learn more about <strong>React</strong> and <strong>Typescript</strong>.
 
 📝 You can see some of my <strong>projects</strong> on this page. Stay around, there's more <strong>yet</strong> to come! :)
 
