@@ -4,7 +4,7 @@
 
 💼 Currently, i'm primally focused on <strong>HTML, CSS, Javascript, Angular and React.</strong>
 
-📚 But i also want to learn more about <strong>Node.js</strong> and <strong>SQL</strong>.
+📚 But i also want to learn more about <strong>Node.js</strong>, <strong>Firebase</strong> and <strong>SQL</strong>.
 
 📝 You can see some of my <strong>projects</strong> on this page. Stay around, there's more <strong>yet</strong> to come! :)
 
@@ -21,6 +21,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="HTML5"/></code>
 
 ---
 
