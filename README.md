@@ -2,7 +2,7 @@
 
 💬 I'm a <strong>Front-End Developer</strong>.
 
-💼 Currently, i'm primally focused on <strong>HTML, CSS, Javascript, Angular and ReactJS.</strong>
+💼 Currently, i'm primally focused on <strong>HTML5, CSS3, Javascript, Angular and ReactJS.</strong>
 
 📚 But i also want to learn more about <strong>Node.js</strong> and <strong>Firebase</strong>.
 
