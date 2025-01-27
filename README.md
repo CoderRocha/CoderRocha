@@ -2,9 +2,9 @@
 
 💬 I'm a <strong>Full-Stack Developer</strong>.
 
-💼 Currently, i'm primally focused on <strong>HTML5, CSS3, Javascript, React and Firebase.</strong>
+💼 Currently, i'm primally focused on <strong>React and Firebase.</strong>
 
-📚 But i also want to learn more about <strong>Node.js</strong>, <strong>SQL</strong> and <strong>Firebase</strong>.
+📚 But i also want to learn more about <strong>Node.js</strong> and <strong>SQL</strong>.
 
 📝 You can see some of my <strong>projects</strong> on this page. Stay around, there's more <strong>yet</strong> to come! :)
 
