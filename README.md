@@ -1,10 +1,10 @@
 ### 👋🏻 Hello, my name is <strong>Guilherme Rocha</strong>, and welcome to my GitHub Profile!
 
-💬 I'm a <strong>Front-End Developer</strong>.
+💬 I'm a <strong>Full-Stack Developer</strong>.
 
-💼 Currently, i'm primally focused on <strong>HTML5, CSS3, Javascript, Angular and ReactJS.</strong>
+💼 Currently, i'm primally focused on <strong>HTML5, CSS3, Javascript, React and Firebase.</strong>
 
-📚 But i also want to learn more about <strong>Node.js</strong> and <strong>Firebase</strong>.
+📚 But i also want to learn more about <strong>Node.js</strong>, <strong>SQL</strong> and <strong>Firebase</strong>.
 
 📝 You can see some of my <strong>projects</strong> on this page. Stay around, there's more <strong>yet</strong> to come! :)
 
@@ -22,6 +22,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></code>
 
 ---
 
