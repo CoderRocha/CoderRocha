@@ -2,9 +2,9 @@
 
 💬 I'm a <strong>Full-Stack Web Developer</strong>.
 
-💼 Currently, i'm primally focused on <strong>React</strong> and <strong>PHP.</strong>
+💼 Currently, i'm primally focused on <strong>Next.js</strong> and <strong>PHP.</strong>
 
-📚 But i also want to learn more about <strong>Laravel</strong>, <strong>Node.js</strong> and <strong>SQL</strong>.
+📚 But i also want to learn more about <strong>Laravel</strong> and <strong>SQL.</strong>
 
 📝 You can see some of my <strong>projects</strong> on this page. Stay around, there's more <strong>yet</strong> to come! :)
 
