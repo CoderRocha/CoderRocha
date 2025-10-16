@@ -5,7 +5,7 @@
 
 💼 My main stack includes: <strong>React, Laravel, JavaScript, PHP and SQL</strong>.
 
-📚 Currently, I'm improving my skills in <strong>APIs</strong> and <strong>back-end architecture</strong>.
+📚 Currently, I'm improving my skills in <strong>APIs</strong>, <strong>Back-End architecture</strong> and <strong>AI</strong>.
 
 📝 Check out some of my <strong>projects</strong> below. There's more coming soon! :)
 
