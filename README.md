@@ -7,7 +7,7 @@
 
 📚 Currently, I'm improving my skills in <strong>APIs</strong>, <strong>Back-End Architecture</strong> and <strong>AI</strong>.
 
-📝 Check out some of my <strong>projects</strong> below. There's more coming soon! :)
+📝 You can see some of <strong>my projects</strong> below! :)
 
 ----
 
