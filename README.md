@@ -3,7 +3,7 @@
 
 💬 I'm a <strong>Full-Stack Web Developer</strong> passionate about building efficient and scalable web applications.
 
-💼 My main stack includes: <strong>React, Laravel, JavaScript, PHP and SQL</strong>.
+💼 My main stack includes: <strong>React, Laravel, Vue, JavaScript, PHP and SQL</strong>.
 
 📚 Currently, I'm improving my skills in <strong>APIs</strong>, <strong>Back-End Architecture</strong> and <strong>AI</strong>.
 
