@@ -1,17 +1,17 @@
-### 👋🏻 Hello, my name is <strong>Guilherme Rocha</strong>, and welcome to my GitHub Profile!
+### 👋🏻 Hi, I'm <strong>Guilherme Rocha</strong>. Welcome to my GitHub!
 <br />
 
-💬 I'm a <strong>Full-Stack Web Developer</strong> passionate about building efficient and scalable web applications.
+💬 I'm a <strong>Full-Stack Web Developer</strong> focused on building efficient and scalable web applications.
 
-💼 My main stack includes: <strong>React, Laravel, Vue, JavaScript, PHP and SQL</strong>.
+💼 Main stack: <strong>React</strong>, <strong>Vue</strong>, <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>SQL</strong>.
 
-📚 Currently, I'm improving my skills in <strong>APIs</strong>, <strong>Software Engineering</strong> and <strong>AI</strong>.
+📚 Currently sharpening my skills in <strong>Software Engineering</strong>, <strong>APIs</strong>, <strong>AI</strong>, and <strong>Automation</strong>.
 
-📝 You can see some of <strong>my projects</strong> below! :)
+📝 Explore some of <strong>my projects</strong> below!
 
 ----
 
-## ⚡ Skills
+## ⚡ Tech Stack
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -30,7 +30,8 @@
 
 ---
 
-## ⭐ Information about my GitHub Account
+## ⭐ GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=coderrocha&show_icons=true&theme=synthwave)
 
 [![iuricode](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coderrocha&hide=html,css&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
