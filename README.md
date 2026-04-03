@@ -5,8 +5,6 @@
 
 💼 Main stack: <strong>React</strong>, <strong>Vue</strong>, <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>PHP</strong> and <strong>SQL</strong>.
 
-📚 Currently sharpening my skills in <strong>Software Engineering</strong>, <strong>APIs RESTful</strong> and <strong>A.I</strong>.
-
 📝 Explore some of <strong>my projects</strong> below!
 
 ----
