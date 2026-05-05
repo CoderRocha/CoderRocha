@@ -1,7 +1,7 @@
 ### 👋🏻 Hi, I'm <strong>Guilherme Rocha</strong>. Welcome to my GitHub!
 <br />
 
-💬 I'm a <strong>Full-Stack Web Developer</strong> focused on building efficient and scalable web applications.
+💬 I'm a <strong>Full-Stack Web Developer</strong> focused on building scalable web applications.
 
 💼 Main stack: <strong>React</strong>, <strong>Vue</strong>, <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>PHP</strong> and <strong>SQL</strong>.
 
