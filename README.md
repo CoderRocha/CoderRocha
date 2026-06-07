@@ -3,7 +3,7 @@
 
 💬 I'm a <strong>Full-Stack Web Developer</strong> focused on building scalable web applications.
 
-💼 Main stack: <strong>React</strong>, <strong>Vue</strong>, <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>PHP</strong> and <strong>SQL</strong>.
+💼 Main stack: <strong>React</strong>, <strong>Vue</strong>, <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>SQL</strong> </strong> and <strong>Docker</strong>.
 
 📝 Explore some of <strong>my projects</strong> below!
 
