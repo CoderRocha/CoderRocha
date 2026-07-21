@@ -25,10 +25,4 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"/></code>
 
 
----
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=coderrocha&show_icons=true&theme=synthwave)
-
 [![iuricode](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coderrocha&hide=html,css&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
